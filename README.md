@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Saravana13
-- 👀 I’m interested in C++
-- 🌱 I’m currently learning JAVA
-- 💞️ I’m looking for a job
+- 👀 I’m interested in C++,Java
+- 🌱 I’m currently learning DSA,LLD,HLD
+- 💞️ I’m looking for a developer role
 - 📫 How to reach me at santhoshsaravana002@gmail.com
 
 <!---
